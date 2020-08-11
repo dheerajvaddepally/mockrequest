@@ -2,7 +2,7 @@
   "movies": [
     {
       "iD": 20202,
-      "isAvailabe": true,
+      "isAvailabe": false,
       "downloadedDate": "234"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "iD": 24911,
-      "isAvailable": true,
+      "isAvailable": false,
       "downloadedDate": "123"
     },
     {
@@ -32,17 +32,17 @@
     },
     {
       "iD": 94163,
-      "isAvailable": true,
+      "isAvailable": false,
       "downloadedDate": "123"
     },
     {
       "iD": 22772,
-      "isAvailable": true,
+      "isAvailable": false,
       "downloadedDate": "123"
     },
     {
       "iD": 19178,
-      "isAvailable": true,
+      "isAvailable": false,
       "downloadedDate": "123"
     },
     {
@@ -57,12 +57,12 @@
     },
     {
       "iD": 94007,
-      "isAvailable": true,
+      "isAvailable": false,
       "downloadedDate": "123"
     },
     {
       "iD": 92004,
-      "isAvailable": true,
+      "isAvailable": false,
       "downloadedDate": "123"
     },
     {
@@ -82,7 +82,7 @@
     },
     {
       "iD": 3016,
-      "isAvailable": true,
+      "isAvailable": false,
       "downloadedDate": "123"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "iD": 3023,
-      "isAvailable": true,
+      "isAvailable": false,
       "downloadedDate": "123"
     }
   ]
