@@ -2,7 +2,7 @@
   "movies": [
     {
       "iD": 20202,
-      "isAvailabe": false,
+      "isAvailable": false,
       "downloadedDate": "234"
     },
     {
