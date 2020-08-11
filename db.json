@@ -1,12 +1,14 @@
-[
-   {
-      "iD":12345,
-      "isAvailable":true,
-      "downloadedDate":"234"
-   },
-   {
-      "iD":45678,
-      "isAvailable":true,
-      "downloadedDate":"123"
-   }
-]
+{
+  "movies": [
+    {
+      "iD": 12345,
+      "isAvailable": true,
+      "downloadedDate": "234"
+    },
+    {
+      "iD": 45678,
+      "isAvailable": true,
+      "downloadedDate": "123"
+    }
+  ]
+}
