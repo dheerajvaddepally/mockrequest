@@ -1,10 +1,5 @@
 {
-  "movies": [
-    {
-      "iD": 20202,
-      "isAvailable": false,
-      "downloadedDate": "234"
-    },
+  "movies": [  
     {
       "iD": 24907,
       "isAvailable": true,
@@ -99,6 +94,11 @@
       "iD": 3023,
       "isAvailable": false,
       "downloadedDate": "123"
+    },
+    {
+      "iD": 20202,
+      "isAvailable": false,
+      "downloadedDate": "234"
     }
   ]
 }
